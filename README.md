@@ -2,9 +2,10 @@
 
 ```bash
 $ npm install
+$ npm install -g @nestjs/cli
+$ npm install @nestjs/mongoose mongoose
+
 ```
-npm install -g @nestjs/cli
-npm install @nestjs/mongoose mongoose
 
 ## Compile and run the project
 
